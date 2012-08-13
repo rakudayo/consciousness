@@ -9,6 +9,7 @@
 
 ## [Alpha waves](http://en.wikipedia.org/wiki/Alpha_wave)
 - Alpha waves are neural oscillations in the frequency range of 8–12 Hz.
+- Alpha waves predominantly originate in the occipital lobe during wakeful relaxation with closed eyes.
 
 ## [Theta waves](http://en.wikipedia.org/wiki/Theta_wave)
 - Theta waves are neural oscillations in the frequency range of 4-7 Hz.

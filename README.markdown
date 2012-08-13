@@ -32,8 +32,8 @@ Since inducing OBEs appears to take significant practice and the technique is no
 
 ## Results
 
-My experiment is currently still in progress, but there can be only one of two possible results:
+My experiment is currently still in progress, but there can be only one of two possible outcomes:
 
 1. **Hypothesis disproved** -> Conclusion: OBEs allow the experiencer access to information outside of his or her own mind (i.e. it is an objective experience, not only within the person's head)
 
-2. **Inability to refute the hypothesis** -> Conclusive: Inconclusive. OBEs might or might not allow the experiencer access to information outside of his or her mind, but this experiment could not disprove OBEs as an internal-only experience.
+2. **Inability to refute hypothesis** -> Conclusion: Inconclusive. OBEs might or might not allow the experiencer access to information outside of his or her mind, but this experiment could not disprove OBEs as an internal-only experience.
