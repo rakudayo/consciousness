@@ -6,7 +6,7 @@ This repository is for records of my personal experiences and investigations int
 
 I intend to investigate this question as scientifically I can, although I am not a professional researcher and make no claims to be one. I will attempt to refute the hypothesis that OBEs are completely internal and the experiencer cannot access information outside of what he or she can create with his or her own mind. 
 
-To do so, I will learn to induce OBEs and then attempt to gain access to knowledge elsewhere in my own home that I could not access without leaving my bed. For example, I will ask my wife (who thinks I'm a bit crazy) to put a playing card or drawn shape on the dinner table at night. Then I will attempt to see the object in an OBE and tell my wife about it in the morning. If I can do this at a rate higher than what one would expect for random guessing, then I will have verified that OBEs allow us access to information outside of the experiencer's mind.
+To do so, I will learn to induce OBEs and then attempt to gain access to knowledge elsewhere in my own home that I could not otherwise access without leaving my bed. For example, I will ask my wife (who thinks I'm a bit crazy) to put a playing card or drawn shape on the dinner table at night. Then I will attempt to see the object in an OBE and tell my wife about it in the morning. If I can do this at a rate higher than what one would expect for random guessing, then I will have verified that OBEs allow us access to information outside of the experiencer's mind.
 
 I will keep a [daily diary](https://github.com/rakudayo/consciousness/tree/master/logs/diary) on the above investigation to record its progress.
 
