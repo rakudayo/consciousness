@@ -14,6 +14,20 @@ In addition, I will be keeping [dream logs](https://github.com/rakudayo/consciou
 
 I will also be uploading other information I find to be [pertinent research and links/resources](https://github.com/rakudayo/consciousness/tree/master/research) related to the topic of altered states of consciousness for anyone interested.
 
+## Motivation
+
+The reason I am investigating these phenomena is mostly from personal interest. I have never experienced an OBE or Near Death Experience, however I have had a few experiences that I could not explain. 
+
+One memory which stands out in particular was when I was driving home from high school late at night through the Indiana country-side. I was eager to get home and speeding a bit. Suddenly, I had the thought that I should slow down, otherwise I would not be able to stop if a cat ran out in from of my car. I remember specifically thinking "cat". I continued on at that speed and about 30 seconds later a cat (or possibly a rabbit) darted out in front of me and I could feel the card running over it.
+
+In addition, below are a few impressive claims that I have come across:
+
+* During a medical surgery to remove an aneurysm from her brain, a woman named Pam Reynolds [claims to have experienced leaving her body and observing the operating room](http://www.near-death.com/experiences/evidence01.html). Although she was dead by all three standard scientific measures during the surgery, she was able to describe events which occurred with startling accuracy.
+* Youtube user Jevixdluv [claims to have seen something happen many miles away that was later corroborated by her family](http://www.youtube.com/watch?v=2RRlcTxJFOE). She experienced her mind traveling a far distance from her resting physical location to view a little girl she knew at her church who was walking down a hallway with a towel wrapped around her. Later, when she talked to her family member who was at the church, he said that the child had wet herself and they have to wrap a towel around her.
+* Youtube user yuttadhammo [claims to have seen an event occur before it actually happened while being outside of his body](http://www.youtube.com/watch?v=CNSBat65EtE). He claims to have seen his brother downstairs pouring a cereal and knocking it over, then when he woke and went downstairs he watched his brother pour a bowl of cereal, turn around and knock it over in the same manner as his premonition.
+
+While such claims seem impossible, and skepticism is certainly warranted, I do tend to believe that "where this is so much smoke, there could be some fire". In other words, perhaps there is some kernel of truth to some of these claims. For these reasons, I am investigating these phenomena.
+
 ## Milestones
 
 Since inducing OBEs appears to take significant practice and the technique is non-trivial, I have created the following milestones for tracking the progress of my experiment. (NOTE: The method I plan to use is the method described [here](http://www.lucidology.com/) in the free Lucidology 101 training course. If this is unsuccessful, I may look into other methods.)
