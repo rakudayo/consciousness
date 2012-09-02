@@ -10,8 +10,6 @@ To do so, I will learn to induce OBEs and then attempt to gain access to knowled
 
 I will keep a [daily diary](https://github.com/rakudayo/consciousness/tree/master/logs/diary) on the above investigation to record its progress.
 
-In addition, I will be keeping [dream logs](https://github.com/rakudayo/consciousness/tree/master/logs/dreamlog) and other information as recommended by practitioners of OBEs and Lucid Dreams. 
-
 I will also be uploading other information I find to be [pertinent research and links/resources](https://github.com/rakudayo/consciousness/tree/master/research) related to the topic of altered states of consciousness for anyone interested.
 
 ## Motivation
