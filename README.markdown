@@ -28,21 +28,21 @@ While such claims seem impossible, and skepticism is certainly warranted, I do t
 
 ## Milestones
 
-Since inducing OBEs appears to take significant practice and the technique is non-trivial, I have created the following milestones for tracking the progress of my experiment. (NOTE: The method I plan to use is the method described [here](http://www.lucidology.com/) in the free Lucidology 101 training course. If this is unsuccessful, I may look into other methods.)
+Since inducing OBEs appears to take significant practice and the technique is non-trivial, I have created the following milestones for tracking the progress of my experiment. (NOTE: The method I plan to use is the method described [here](http://www.lucidology.com/) in the free Lucidology 101 training course. If this method turns out to be ineffective at inducing OBEs, I may look into other methods, such as The Gateway Experience from The Monroe Institute.)
 
-1. **(Completed)** Start training (2012 Aug 09)
+1. **(Completed)** (2012 Aug 09) Start training
 
-2. **(Completed)** Partial waking sleep paralysis (2012 Aug 10)
+2. **(Completed)** (2012 Aug 10) Partial waking sleep paralysis
 
-3. **(Completed)** Full waking sleep paralysis in a single limb (2012 Aug 13)
+3. **(Completed)** (2012 Aug 13) Full waking sleep paralysis in a single limb
 
 4. Full waking sleep paralysis in entire body
 
-5. Experience an OBE (separation of "mind" from "body")
+5. Experience an OBE subjectively
 
 6. From an OBE, read a playing card placed in another room by my wife
 
-7. Repeat (6) 100 more times with higher than random success rate
+7. Repeat (6) 100 times with significantly higher than random success rate
 
 ## Results
 
