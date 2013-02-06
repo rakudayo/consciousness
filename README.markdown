@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository is for records of my personal experiences and investigations into altered states of consciousness. The main question of interest to me is whether or not OBEs (Out of Body Experiences) are internal experiences (i.e. hallucinations within a person's mind) or if they are external experiences. 
+This repository is for records of my personal experiences and investigations into altered states of consciousness. The main question of interest to me is whether or not OBEs (Out of Body Experiences) are internal experiences (i.e. hallucinations within a person's mind) or if they are external experiences.
 
-I intend to investigate this question as scientifically I can, although I am not a professional researcher and make no claims to be one. I will attempt to refute the hypothesis that OBEs are completely internal and the experiencer cannot access information outside of what he or she can create with his or her own mind. 
+I intend to investigate this question as scientifically I can, although I am not a professional researcher and make no claims to be one. I will attempt to refute the hypothesis that OBEs are completely internal and the experiencer cannot access information outside of what he or she can create with his or her own mind.
 
 To do so, I will learn to induce OBEs and then attempt to gain access to knowledge elsewhere in my own home that I could not otherwise access without leaving my bed. For example, I will ask my wife (who thinks I'm a bit crazy) to put a playing card or drawn shape on the dinner table at night. Then I will attempt to see the object in an OBE and tell my wife about it in the morning. If I can do this at a rate higher than what one would expect for random guessing, then I will have verified that OBEs allow us access to information outside of the experiencer's mind.
 
@@ -14,7 +14,7 @@ I will also be uploading other information I find to be [pertinent research and 
 
 ## Motivation
 
-The reason I am investigating these phenomena is mostly from personal interest. I have never experienced an OBE or Near Death Experience, however I have had a few experiences that I could not explain. 
+The reason I am investigating these phenomena is mostly from personal interest. Before starting this experiment, I had never experienced an OBE or Near Death Experience, however I had a few experiences that I could not explain.
 
 One memory which stands out in particular was when I was driving home from high school late at night through the Indiana country-side. I was eager to get home and speeding a bit. Suddenly, I had the thought that I should slow down, otherwise I would not be able to stop if a cat ran out in front of my car. I remember specifically thinking "cat". I continued on at that speed and about 30 seconds later a cat (or possibly a rabbit) darted out in front of me and I still remember feeling the car wheels running over it.
 
@@ -36,9 +36,9 @@ Since inducing OBEs appears to take significant practice and the technique is no
 
 3. **(Completed)** (2012 Aug 13) Full waking sleep paralysis in a single limb
 
-4. Full waking sleep paralysis in entire body
+4. **(Completed)** (2012 Dec 15) Full waking sleep paralysis in entire body
 
-5. Experience an OBE subjectively
+5. Experience an OBE subjectively (perceive my whole body including head)
 
 6. From an OBE, read a playing card placed in another room by my wife
 
